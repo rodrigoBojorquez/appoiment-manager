@@ -1,0 +1,5 @@
+/* se ponen en los archivos que esten de forma global */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
